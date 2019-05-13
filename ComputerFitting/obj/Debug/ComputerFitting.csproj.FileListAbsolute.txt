@@ -1,0 +1,16 @@
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.csprojAssemblyReference.cache
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Etcetera.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Fitting.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.GraphicCard.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Memory.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Motherboard.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.PowerAdapter.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Processor.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.Properties.Resources.resources
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.csproj.GenerateResource.cache
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.csproj.CoreCompileInputs.cache
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\bin\Debug\ComputerFitting.exe.config
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\bin\Debug\ComputerFitting.exe
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\bin\Debug\ComputerFitting.pdb
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.exe
+C:\Users\Mishon\source\repos\ComputerFitting\ComputerFitting\obj\Debug\ComputerFitting.pdb
