@@ -160,19 +160,19 @@
             // 
             // columnHeader4
             // 
-            this.columnHeader4.Text = "Note";
+            this.columnHeader4.Text = "Size";
             // 
             // columnHeader5
             // 
-            this.columnHeader5.Text = "Not-compatible equipment";
+            this.columnHeader5.Text = "Type";
             // 
             // columnHeader6
             // 
-            this.columnHeader6.Text = "Type";
+            this.columnHeader6.Text = "Note";
             // 
             // columnHeader7
             // 
-            this.columnHeader7.Text = "Size";
+            this.columnHeader7.Text = "Not-Compatible Hardware";
             // 
             // textBox1
             // 
