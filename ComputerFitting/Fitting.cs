@@ -113,6 +113,7 @@ namespace ComputerFitting
                         MessageBox.Show(mthr.name + " is not compatible with " + ((ComputerPart)data[k]).name);
                         //MessageBox.Show(((Proc)data[k]).socket + " " + mthr.socket);
                         checkBox1.Checked = false;
+                        checkBox2.Checked = false;
                     }
                 }
             }
