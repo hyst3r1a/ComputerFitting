@@ -106,9 +106,10 @@ namespace ComputerFitting
             {
                 if (data[k].GetType().ToString().Equals("ComputerFitting.Proc"))
                 {
+                    label1.Text += ((Proc)data[k]).freq + " ";
                     if (!((Proc)data[k]).socket.Equals(mthr.socket))
                     {
-                        label1.Text += ((Proc)data[k]).freq + " ";
+                       
                         MessageBox.Show(mthr.name + " is not compatible with " + ((ComputerPart)data[k]).name);
                         //MessageBox.Show(((Proc)data[k]).socket + " " + mthr.socket);
                         checkBox1.Checked = false;
