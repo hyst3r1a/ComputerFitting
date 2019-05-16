@@ -261,19 +261,23 @@ namespace ComputerFitting
         {
             if (listView1.SelectedIndices.Count != 0)
             {
-                int index = listView1.SelectedIndices[0];
-
-
-
-                if (index != -1 && index < data.Count)
+                var result = MessageBox.Show("Are you sure?", "Dialog", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
                 {
-                    data.RemoveAt(index);
-                    RefreshTable();
+                    int index = listView1.SelectedIndices[0];
 
-                }
-                else
-                {
-                    MessageBox.Show("Invalid ID");
+
+
+                    if (index != -1 && index < data.Count)
+                    {
+                        data.RemoveAt(index);
+                        RefreshTable();
+
+                    }
+                    else
+                    {
+                        MessageBox.Show("Invalid ID");
+                    }
                 }
             }
         }

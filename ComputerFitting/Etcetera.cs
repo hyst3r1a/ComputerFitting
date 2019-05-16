@@ -226,7 +226,11 @@ namespace ComputerFitting
 
             private void Button2_Click(object sender, EventArgs e)
             {
+          
                 if (listView1.SelectedIndices.Count != 0)
+                {
+                var result = MessageBox.Show("Are you sure?", "Dialog", MessageBoxButtons.YesNo);
+                if (result == DialogResult.Yes)
                 {
                     int index = listView1.SelectedIndices[0];
 
@@ -243,6 +247,8 @@ namespace ComputerFitting
                         MessageBox.Show("Invalid ID");
                     }
                 }
+                }
+            
             }
 
             private void Button3_Click(object sender, EventArgs e)
